@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "yoavbls.pretty-ts-errors",
+    "esbenp.prettier-vscode",
+    "streetsidesoftware.code-spell-checker",
+    "gregorbiswanger.json2ts",
+    "eamodio.gitlens"
+  ]
+}
